@@ -29,4 +29,4 @@ A simple web application that allows users to convert Chilean Pesos (CLP) to var
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone [https://github.com/yourusername/currency-converter.git](https://github.com/tamarazapata/miindicador-js-api/)
+   git clone https://github.com/tamarazapata/miindicador-js-api/
