@@ -1,0 +1,39 @@
+body {
+    background-color: #f8f9fa;
+}
+
+
+.container {  
+    padding: 5rem;
+}
+
+.card-custom {
+    background-color: #e9f7ff;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #007bff;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+
+.conversion-result {
+    font-size: 1.5rem; /* Increase font size */
+    color: #007bff; /* Blue color for the result */
+    background-color: #f1f9ff; /* Light blue background */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px; /* Padding inside the result box */
+    text-align: center; /* Center the text */
+    margin-top: 20px; /* Add some space above the result */
+    font-weight: bold; /* Bold text */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for a modern look */
+}
